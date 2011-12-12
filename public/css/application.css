@@ -1,0 +1,44 @@
+p, h2, a {
+	text-align: center;
+}
+
+.index_form input{
+}
+.index_form form{
+	width: 400px;
+	margin: 0px auto;
+}
+.index_form table{
+	float: right;
+}
+
+#tabs{
+	height: 220px;
+	width: 80%;
+	margin: 0 auto;
+	}
+
+#websites{
+	width: 80%;
+	margin: 5px auto;
+	
+}
+
+#website_list{
+	width: 80%;
+	margin: 0px auto;
+}
+
+
+#website_trash{
+	width: 200px;
+	margin: 2px auto;
+	text-align: center;
+	border: 1px solid black;
+}
+
+.feedback { font-size: .8em; }
+.selectable .ui-selecting { background: #FECA40; }
+.selectable .ui-selected { background: #F39814; color: white; }
+.selectable { list-style-type: none; margin: 0; padding: 0; }
+.selectable li { margin: 5px; padding-top: 5px; 1px; float: left; width: 130px; height: 40px; font-size: 1em; text-align: center; }
